@@ -8,7 +8,6 @@ opencv라이브러리중 컬러인식을 이용해 아령과 이용자의 관절
 주요 코드는 classes폴더에 위치
 
 HelloWorldScene.cpp - 메인화면 (혼자하기, 같이하기, 환경설정, 나가기 버튼이 존재)
-
   
   ConfigScene.cpp - 운동강도와 아령색을 선택할 수 있는 환경설정 화면
 
@@ -25,7 +24,6 @@ HelloWorldScene.cpp - 메인화면 (혼자하기, 같이하기, 환경설정, �
     MultiPlayScene.cpp - 멀티플레이시 운동화면이다.
     
     
-
 
 Obje.cpp - OpenCV라이브러리의 컬러 인식기능을 이용해 객체(아령, 관절)를 구분할 수 있도록 만든 함수들이다.
 
